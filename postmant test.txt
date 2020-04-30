@@ -1,0 +1,1 @@
+pm.environment.set("jwt", pm.response.json().token);
